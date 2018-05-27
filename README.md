@@ -1,8 +1,6 @@
 
 #Neighborhood Map
-*This single page application shows a map of a few places we visited in San Francisco on a recent vacation. This app is built for a Neighborhood map project which is a part of the Front End Web Development Nanodegree at Udacity.
-
-##Getting Started
+*This single page application shows a map of a few places we visited in San Francisco on a recent vacation. This app is built for a Neighborhood map project which is a part of the Front End Web Development Nanodegree at Udacity. ##Getting Started
 You can *[clone](https://github.com/curlygirl11/Neighborhood-Map.git)* or *[download](https://github.com/curlygirl11/Neighborhood-Map.git)* this project via [GitHub](https://github.com) to your local machine.
 
 ##How to use
