@@ -1,20 +1,16 @@
 
 # Neighborhood Map
-*This single page application shows a map of a few places we visited in San Francisco on a recent vacation. This app is built for a Neighborhood map project which is a part of the Front End Web Development Nanodegree at Udacity. 
-*The app allows you to filter the list down as you type. In return, it displays the locations on the map. *Click on the markers for additional information provided by Foursquare.
+This single page application shows a map of a few places we visited in San Francisco on a recent vacation. It was built for a Neighborhood map project for the Front End Web Developer Nanodegree at Udacity.
 
 ## Getting Started
-You can *[clone](https://github.com/curlygirl11/Neighborhood-Map.git)* or *[download](https://github.com/curlygirl11/Neighborhood-Map.git)* this project via [GitHub](https://github.com) to your local machine.
-
-## Install
 No installation necessary. Follow this [link](https://curlygirl11.github.io/neighborhood-maps/). 
 
+OR you can *[clone](https://github.com/curlygirl11/Neighborhood-Map.git)* or *[download](https://github.com/curlygirl11/Neighborhood-Map.git)* this project via [GitHub](https://github.com) to your local machine.
 
+## How to use the App 
+Click on the colored markers for additional information on the site provided by Foursquare. I did not include any of the places that we visited that did not have foursquare data available. 
 
-
-
-
-## Inspirational work from other students
-
+The app allows you to filter the list down as you type. In return, it displays the locations on the map.
 
 ## Acknowledgments
+Thank you to all of the wonderful students with Github Repositories that I could reference when I was stuck. 
